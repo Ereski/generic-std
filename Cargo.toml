@@ -1,0 +1,8 @@
+[package]
+name = "generic-std"
+description = "Experimental HKT framework and generic traits for the standard library"
+repository = "https://github.com/Ereski/generic-std"
+license = "MIT"
+version = "0.1.0"
+authors = ["Carol Schulze <carol@ereski.org>"]
+edition = "2018"
