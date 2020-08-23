@@ -6,3 +6,6 @@ license = "MIT"
 version = "0.1.0"
 authors = ["Carol Schulze <carol@ereski.org>"]
 edition = "2018"
+
+[dev-dependencies]
+async-executor = { version = "0.1.2", default-features = false }
